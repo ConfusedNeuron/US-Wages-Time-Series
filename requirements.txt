@@ -10,3 +10,5 @@ lightgbm
 scikit-learn
 tensorflow
 seaborn
+jupyter
+ipykernel
