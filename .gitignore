@@ -244,5 +244,8 @@ Sample
 PACF.png
 AFC.png
 Series Decomposition (Study_Variable = True Wages).png
+ACF PACF first diff.png
+ACF&PACF - Real Wages.png
+ACF&PACF - yoY Change.png
 .idea/
 data
